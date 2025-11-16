@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Midhun Das!
 
 🎓 Electronics & Communication Engineering Student  
-💻 Frontend Developer | ✨ HTML & CSS Enthusiast  
+💻 Python Developer  
 🚀 Passionate about creating clean and responsive UI designs  
 
 ---
@@ -9,8 +9,7 @@
 ## 🧠 About Me
 
 - 🎓 Pursuing B.Tech ECE at Cochin University College of Engineering, Kuttanadu  
-- 💡 Interested in building elegant front-end projects using pure HTML & CSS  
-- 🌱 Learning more about UI/UX design and responsive web development  
+- 🌱 Learning more about Python and responsive web development  
 - 🛠 Working on personal projects to strengthen design + coding skills  
 - 📘 Actively solving coding problems and improving development skills  
 
@@ -35,19 +34,9 @@
 
 ---
 
-## 📁 Featured Project: Calculator
-
-A simple and clean calculator built using **HTML & CSS**.  
-Perfect for learning layout, UI, and responsive design.
-
-👉 **GitHub Repo:**  
-https://github.com/midhun-das333/Calculator
-
----
-
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@example.com**  
+- 📧 Email: **midhundas412608@gmail.com**  
 - 🐙 GitHub: **[midhun-das333](https://github.com/midhun-das333)**  
 
 ---
